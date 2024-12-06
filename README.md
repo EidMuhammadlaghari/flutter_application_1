@@ -10,10 +10,6 @@ A Flutter-based task management application that allows users to schedule tasks,
 - **Email Notifications**: Send email reminders for tasks to specified recipients.
 - **Real-time Updates**: Tasks are fetched from Firestore and updated in real-time.
 
-## Screenshots
-
-(You can include any screenshots of the app's UI here)
-
 ---
 
 ## Tech Stack
